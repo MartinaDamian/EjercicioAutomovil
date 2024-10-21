@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SEMANA_3/3.1.Clase/3.1.Clase.iml" filepath="$PROJECT_DIR$/SEMANA_3/3.1.Clase/3.1.Clase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SEMANA_3/3.1.SEMANA/3.1.SEMANA.iml" filepath="$PROJECT_DIR$/SEMANA_3/3.1.SEMANA/3.1.SEMANA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SEMANA_4/4.1.Clase/4.1.Clase.iml" filepath="$PROJECT_DIR$/SEMANA_4/4.1.Clase/4.1.Clase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SEMANA_4/4.11Clase/4.11Clase.iml" filepath="$PROJECT_DIR$/SEMANA_4/4.11Clase/4.11Clase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PROGRESO_1.iml" filepath="$PROJECT_DIR$/.idea/PROGRESO_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SEMANA 1/SEMANA 1.iml" filepath="$PROJECT_DIR$/SEMANA 1/SEMANA 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SEMANA_2/SEMANA_2.iml" filepath="$PROJECT_DIR$/SEMANA_2/SEMANA_2.iml" />
+    </modules>
+  </component>
+</project>
